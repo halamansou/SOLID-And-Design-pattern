@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\srp\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\srp\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\srp\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\srp\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\srp\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\srp\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\srp\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\srp\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\srp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\srp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\ocp\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\ocp\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\ocp\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\ocp\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\ocp\\banktransferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\ocp\\banktransferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\lsp\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\lsp\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\lsp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\lsp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\isp\\videoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\videoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\isp\\medialoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\medialoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\isp\\imediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\imediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\isp\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\isp\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\iorderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\iorderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\full solid\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\full solid\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\dip\\ifilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\ifilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\dip\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\dip\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\dip\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\dip\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\dip\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|e:\\iti 9m  44\\35-solid \u0026design pattern\\solid \u0026design pattern\\solid-design-pattern\\solid\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0149FF3D-1648-4946-8A56-13CC3EE48A39}|SOLID\\SOLID.csproj|solutionrelative:solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\PaymentProcessor.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\PaymentProcessor.cs",
+              "RelativeToolTip": "SOLID\\OCP\\PaymentProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:38:05.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\Employee.cs",
+              "RelativeDocumentMoniker": "SOLID\\SRP\\Employee.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\Employee.cs",
+              "RelativeToolTip": "SOLID\\SRP\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:26:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "SOLID\\SRP\\EmployeeData.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\EmployeeData.cs",
+              "RelativeToolTip": "SOLID\\SRP\\EmployeeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:30:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\NotificationService.cs",
+              "RelativeDocumentMoniker": "SOLID\\SRP\\NotificationService.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\NotificationService.cs",
+              "RelativeToolTip": "SOLID\\SRP\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:28:55.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "SOLID\\SRP\\ReportGenerator.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\ReportGenerator.cs",
+              "RelativeToolTip": "SOLID\\SRP\\ReportGenerator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA2wAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:27:43.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalaryCalculator.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\SalaryCalculator.cs",
+              "RelativeDocumentMoniker": "SOLID\\SRP\\SalaryCalculator.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\SRP\\SalaryCalculator.cs",
+              "RelativeToolTip": "SOLID\\SRP\\SalaryCalculator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:27:09.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\PayPalPayment.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\PayPalPayment.cs",
+              "RelativeToolTip": "SOLID\\OCP\\PayPalPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:35:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\IPaymentMethod.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\IPaymentMethod.cs",
+              "RelativeToolTip": "SOLID\\OCP\\IPaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:34:14.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\CreditCardPayment.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\CreditCardPayment.cs",
+              "RelativeToolTip": "SOLID\\OCP\\CreditCardPayment.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:34:44.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankTransferPayment.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\BankTransferPayment.cs",
+              "RelativeDocumentMoniker": "SOLID\\OCP\\BankTransferPayment.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\OCP\\BankTransferPayment.cs",
+              "RelativeToolTip": "SOLID\\OCP\\BankTransferPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:36:53.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\LSP\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SOLID\\LSP\\SavingsAccount.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\LSP\\SavingsAccount.cs",
+              "RelativeToolTip": "SOLID\\LSP\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:49:11.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\LSP\\Account.cs",
+              "RelativeDocumentMoniker": "SOLID\\LSP\\Account.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\LSP\\Account.cs",
+              "RelativeToolTip": "SOLID\\LSP\\Account.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:48:40.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VideoPlayer.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\ISP\\VideoPlayer.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\VideoPlayer.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\ISP\\VideoPlayer.cs",
+              "RelativeToolTip": "SOLID\\ISP\\VideoPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:53:38.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MediaLoader.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\ISP\\MediaLoader.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\MediaLoader.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\ISP\\MediaLoader.cs",
+              "RelativeToolTip": "SOLID\\ISP\\MediaLoader.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:53:37.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMediaPlayer.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\ISP\\IMediaPlayer.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\IMediaPlayer.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\ISP\\IMediaPlayer.cs",
+              "RelativeToolTip": "SOLID\\ISP\\IMediaPlayer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:53:27.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\ISP\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "SOLID\\ISP\\AudioPlayer.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\ISP\\AudioPlayer.cs",
+              "RelativeToolTip": "SOLID\\ISP\\AudioPlayer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:53:39.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\ProductRepository.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\ProductRepository.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:50:58.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\Product.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\Product.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\Product.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\Product.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:50:55.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\PaymentProcessor.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\PaymentProcessor.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\PaymentProcessor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:50:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\OrderProcessor.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\OrderProcessor.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\OrderProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:50:40.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\Order.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\Order.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\Order.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:50:39.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\INotificationService.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\INotificationService.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\INotificationService.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\INotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:49:44.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOrderProcessor.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\IOrderProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\IOrderProcessor.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\IOrderProcessor.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\IOrderProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:49:47.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\IPaymentProcessor.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\IPaymentProcessor.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\IPaymentProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:49:50.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\IProductRepository.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\IProductRepository.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:49:51.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\NotificationService.cs",
+              "RelativeDocumentMoniker": "SOLID\\Full SOLID\\NotificationService.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Full SOLID\\NotificationService.cs",
+              "RelativeToolTip": "SOLID\\Full SOLID\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:49:52.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IFileWriter.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\IFileWriter.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\IFileWriter.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\IFileWriter.cs",
+              "RelativeToolTip": "SOLID\\DIP\\IFileWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:05:11.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFileReader.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\IFileReader.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\IFileReader.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\IFileReader.cs",
+              "RelativeToolTip": "SOLID\\DIP\\IFileReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:05:13.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\FileWriter.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\FileWriter.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\FileWriter.cs",
+              "RelativeToolTip": "SOLID\\DIP\\FileWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:05:10.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\FileReader.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\FileReader.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\FileReader.cs",
+              "RelativeToolTip": "SOLID\\DIP\\FileReader.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:05:05.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID\\DIP\\FileProcessor.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\DIP\\FileProcessor.cs",
+              "RelativeToolTip": "SOLID\\DIP\\FileProcessor.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:04:55.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Program.cs",
+              "ToolTip": "E:\\ITI 9M  44\\35-SOLID \u0026Design pattern\\SOLID \u0026Design pattern\\SOLID-Design-pattern\\SOLID\\SOLID\\Program.cs",
+              "RelativeToolTip": "SOLID\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:07:24.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
